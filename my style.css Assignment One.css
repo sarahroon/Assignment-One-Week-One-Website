@@ -1,0 +1,14 @@
+header {
+    color: Brown;
+    font-size: 20px;
+    font-family: monospace;
+    position: fixed;
+    text-decoration: underline;  
+}
+
+h1 {
+    color: green;
+    font-size: 10px;
+    font-family: Arial;
+    text-decoration: underline;
+}
