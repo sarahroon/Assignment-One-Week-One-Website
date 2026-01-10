@@ -2,3 +2,9 @@
     background-image: url("https://www.onlyfoods.net/wp-content/uploads/2024/03/Types-of-Tea.jpg");
 }
 
+.h1 {
+    color: #D2691E;
+    font-style: monospace;
+    font-size: 20px;
+}
+
