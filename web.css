@@ -3,17 +3,17 @@
 }
 
 .feature {
-    background-color: beige;
+    background-color: brown;
     background-size: cover;
     height: 100vh;
     position: relative;
 }
 
-.black tea {
+.black-tea {
     background-image: url('https://www.seema.com/wp-content/uploads/2022/07/Black-tea1.jpg');
 }
 
-.green tea {
+.green-tea {
     background-image:
 url('https://www.stylecraze.com/wp-content/uploads/2013/02/20-Benefits-Of-Green-Tea-That-You-Should-Definitely-Know-1.jpgheader');
 }
