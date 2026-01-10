@@ -6,8 +6,6 @@
     background-color: beige;
     background-size: cover;
     height: 100vh;
-
-    
     position: relative;
 }
 
@@ -24,11 +22,4 @@ url('https://www.stylecraze.com/wp-content/uploads/2013/02/20-Benefits-Of-Green-
     position: absolute;
     bottom: 225px;
     left: 125px; 
-}
-
-h1 {
-    color: black;
-    font-size: 10px;
-    font-family: Arial;
-    text-decoration: underline;
 }
