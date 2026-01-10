@@ -1,6 +1,12 @@
 h1 {
     color: #556B2F;
-    font-style: Calibri;
+    font-style: Arial;
+    font-size: 20px;
+}
+
+h2 {
+    color: #2E8B57;
+    font-style: Arial;
     font-size: 20px;
 }
 
