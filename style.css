@@ -1,13 +1,3 @@
-* {
-    margin: 0;
-}
-
 body {
     background-image: url("https://www.seema.com/wp-content/uploads/2022/07/Black-tea1.jpg");
-}
-
-.cta-box {
-    position: absolute;
-    bottom: 225px;
-    left: 125px; 
 }
