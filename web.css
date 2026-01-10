@@ -1,13 +1,33 @@
-header {
-    color: Brown;
-    font-size: 20px;
-    font-family: monospace;
-    position: fixed;
-    text-decoration: underline;  
+* {
+    margin: 0;
+}
+
+.feature {
+    background-color: beige;
+    background-size: cover;
+    height: 100vh;
+
+    
+    position: relative;
+}
+
+.black tea {
+    background-image: url('https://www.seema.com/wp-content/uploads/2022/07/Black-tea1.jpg');
+}
+
+.green tea {
+    background-image:
+url('https://www.stylecraze.com/wp-content/uploads/2013/02/20-Benefits-Of-Green-Tea-That-You-Should-Definitely-Know-1.jpgheader');
+}
+
+.cta-box {
+    position: absolute;
+    bottom: 225px;
+    left: 125px; 
 }
 
 h1 {
-    color: green;
+    color: black;
     font-size: 10px;
     font-family: Arial;
     text-decoration: underline;
