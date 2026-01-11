@@ -1,16 +1,16 @@
-marquee {
+.marquee {
     color: green;
     font-style: Arial;
     font-size: 20px;
 }
 
-header {
+.header {
     color: #2E8B57;
     font-style: Arial;
     font-size: 20px;
 }
 
-body {
+.body {
     font-family: Arial;
     margin: 0;
     padding: 0;
@@ -21,7 +21,7 @@ body {
     background-image: url("https://img.freepik.com/premium-photo/cup-green-tea-isolated-white-background_728202-966.jpg");
 }
 
-ul {
+.ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -29,11 +29,11 @@ ul {
     background-color: #f5f5dc;
 }
 
-ul li {
+.ul li {
     float: left;
 }
 
-ul li a {
+.ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -41,30 +41,30 @@ ul li a {
     text-decoration: none;
 }
 
-ul li a:hover {
+.ul li a:hover {
     background-color: #763f00;
 }
 
-img {
+.img {
     width: 205px;
     height: 260px;
     display: flex;
     justify-content: flex-start;
 }
 
-p1 {
+.p1 {
     color: forestgreen;
     font-size: 15px;
     font-style: Arial;
 }
 
-p2 {
+.p2 {
     color: darkgreen;
     font-size: 15px;
     font-style: Arial;
 }
 
-button {
+.button {
     display: none;
     position: fixed;
     bottom: 20px;
@@ -80,6 +80,6 @@ button {
     font-size: 18px;
 }
 
-button:hover {
+.button:hover {
     background-color: #B5651D;
 }
