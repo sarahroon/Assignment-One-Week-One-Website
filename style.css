@@ -4,13 +4,20 @@ marquee {
     font-size: 20px;
 }
 
-h1 {
-    color: brown;
+header {
+    color: #2E8B57;
     font-style: Arial;
     font-size: 20px;
 }
 
 body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f0f0;
     background-image: url("https://img.freepik.com/premium-photo/cup-green-tea-isolated-white-background_728202-966.jpg");
 }
 
