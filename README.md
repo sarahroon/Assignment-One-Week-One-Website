@@ -1,4 +1,4 @@
-- I achieved the following requirements: included title, header, horizontal navigation bar, body, p, h1, h2, buttons, footer with copyright sections, video links, a background image, an image and used flex box to position the image to the left.
+- I achieved the following requirements: included title, header, horizontal navigation bar, body, p, h1, h2, buttons, footer with copyright sections, video links, a background image, an image, I used flex box to position the image to the left, cursor and a bottom to top side bar.
 - Some requirements I was unable to achieve were:
 - What I found difficult about these tasks was: use of buttons with links and styling navigation section.
 - I would like to request feedback about my use of buttons for my website.
