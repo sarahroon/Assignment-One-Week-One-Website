@@ -1,7 +1,7 @@
 - I achieved the following requirements: title, header, horizontal navigation bar, body, p, h1, h2, buttons, footer with copyright sections, video links, a background image, an image, I used flex box to position the image to the left, cursor and a bottom to top side bar.
 - Some requirements I was unable to achieve were:
 - What I found difficult about these tasks was: positioning some elements.
-- I would like to request feedback about the use of buttons for my website.
+- I would like to request feedback about the use of buttons for my website such as how to make use of the Top button.
 - Websites such as W3 Schools giving information about CSS  were useful for me when developing my website.
 - Some errors I encountered were: use of buttons navigating to sections of my website.
 - What went really well was I included an extra feature which was a bottom to top side bar which improves user's experience of navigating my website and I included an extra feature which was a marquee with a welcome message for users coming my websites which invites more users to use my website.
