@@ -1,7 +1,7 @@
 - I achieved the following requirements: included title, header, horizontal navigation bar, body, p, h1, h2, buttons, footer with copyright sections, video links, a background image, an image, I used flex box to position the image to the left, cursor and a bottom to top side bar.
 - Some requirements I was unable to achieve were:
-- What I found difficult about these tasks was: use of buttons with links and styling navigation section.
-- I would like to request feedback about my use of buttons for my website.
+- What I found difficult about these tasks was: positioning some elements.
+- I would like to request feedback about the use of buttons for my website.
 - Websites such as W3 Schools giving information about CSS  were useful for me when developing my website.
 - Some errors I encountered were: use of buttons with links.
 - What went really well was including a background image in my website and designing color, font and style of my text.
