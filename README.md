@@ -4,5 +4,5 @@
 - I would like to request feedback about the use of buttons for my website.
 - Websites such as W3 Schools giving information about CSS  were useful for me when developing my website.
 - Some errors I encountered were: use of buttons with links.
-- What went really well was including a background image in my website, designing color, font and style of my text and including a navigation bar, a cursor and a bottom to top side bar.
+- What went really well was I included an extra feature which was a bottom to top side bar which improves user's experience of navigating my website.
 - What could have gone better was: use of buttons with links.
