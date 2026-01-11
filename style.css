@@ -39,8 +39,10 @@ ul li a:hover {
 }
 
 img {
-    width: 80px;
-    height: 80px;
+    width: 205px;
+    height: 260px;
+    display: flex;
+    justify-content: flex-start;
 }
 
 p {
