@@ -29,6 +29,7 @@
     justify-content: center;
     align-items: center;
     background: #32CD32;
+    overflow-y: scroll;
     background-image: url("https://img.freepik.com/premium-photo/cup-green-tea-isolated-white-background_728202-966.jpg");
 }
 
