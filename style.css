@@ -1,5 +1,5 @@
 .marquee {
-    color: #3CB371;
+    color: #000000;
     font-style: Arial;
     font-size: 18px;
     diplay: flex;
@@ -56,13 +56,13 @@
 }
 
 .p1 {
-    color: #008000;
+    color: #000000;
     font-size: 15px;
     font-style: Arial;
 }
 
 .p2 {
-    color: #A52A2A;
+    color: #000000;
     font-size: 15px;
     font-style: Arial;
 }
