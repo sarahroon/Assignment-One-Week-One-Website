@@ -17,7 +17,7 @@ function topFunction() {
 
 let counter = 1;
 
-  function addMessage() {
+  function scrolltothetop() {
     const content = document.getElementById("content");
     const scrollBox = document.getElementById("scrollBox");
 
