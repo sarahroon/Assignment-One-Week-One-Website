@@ -45,8 +45,14 @@ img {
     justify-content: flex-start;
 }
 
-p {
-    color: gold;
+p1 {
+    color: forestgreen;
     font-size: 15px;
-    font-style: monospace;
+    font-style: Arial;
+}
+
+p2 {
+    color: darkgreen;
+    font-size: 15px;
+    font-style: Arial;
 }
