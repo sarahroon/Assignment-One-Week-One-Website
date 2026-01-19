@@ -15,4 +15,3 @@ function scrollFunction() {
   } else {
     myButton.style.display = "none";
   }
-}
