@@ -1,4 +1,4 @@
-- I achieved the following requirements: title, header, body, p, h1, h2, buttons, footer with copyright sections, video links, a background image, an image, I used flex box to position the image to the left, cursor and a bottom to top side bar.
+- I achieved the following requirements: title, header, body, p, h1, h2, buttons, footer with copyright sections, video links, a background image, an image, I used flex box to position the image to the left.
 - Some requirements I was unable to achieve were: positioning some of the text.
 - What I found difficult about these tasks was: positioning some elements and creating a scroll bar.
 - I would like to request feedback about the use of buttons for my website such as how to make use of the Top button to help the user navigate to the top of the web page.
