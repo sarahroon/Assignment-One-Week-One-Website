@@ -1,13 +1,17 @@
-const myBtn = document.getElementById("myBtn");
+const myBtn = {
+  document.getElementById("myBtn");
+};
 
 element.style.display = 'initial';
 
-window.onscroll = function() {scrollFunction()};
+window.onscroll = {
+  function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 20 ||
-document.documentElement.scrollTop > 20) {
+  if (document.body.scrollTop > 20);
+document.documentElement.scrollTop > 20);
     mybutton.style.display = "block";
   } else {
     mybutton.style.display = "none";
   }
+}
