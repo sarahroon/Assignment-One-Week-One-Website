@@ -1,4 +1,6 @@
-let myButton = document.getElementById("myBtn");
+const myBtn = document.getElementById("myBtn");
+
+element.style.display = 'initial';
 
 window.onscroll = function() {scrollFunction()};
 
