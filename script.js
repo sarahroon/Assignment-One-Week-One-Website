@@ -1,5 +1,4 @@
 const myButton = document.getElementById("myBtn");
-};
 
 myButton.style.display = "none";
 
@@ -13,7 +12,7 @@ function scrollFunction() {
     document.documentElement.scrollTop > 20
   ) {
     myButton.style.display = "block";
-}   else {
+  } else {
     myButton.style.display = "none";
   }
 }
